@@ -1,13 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=EUC-KR"
     pageEncoding="EUC-KR"%>
  <%@ taglib uri = "http://java.sun.com/jsp/jstl/core" prefix = "c" %>
- <%@ page import = "java.util.*" %>
- <%@ page import = "com.example.boardex.dto.Article" %>
  
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
+<meta charset="UTF-8">
 <title>게시물 리스트</title>
 </head>
 <body>
